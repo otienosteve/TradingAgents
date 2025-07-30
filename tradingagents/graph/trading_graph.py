@@ -25,6 +25,7 @@ from .propagation import Propagator
 from .reflection import Reflector
 from .signal_processing import SignalProcessor
 
+print('me')
 
 class TradingAgentsGraph:
     """Main class that orchestrates the trading agents framework."""
